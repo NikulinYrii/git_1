@@ -10,6 +10,7 @@ namespace lessonGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("commit_1");
         }
     }
 }
